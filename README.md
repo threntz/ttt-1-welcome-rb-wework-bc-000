@@ -13,7 +13,9 @@ We're going to build a simple program that implements only the very first thing 
 
 ## Instructions
 
-1. Run `learn`
+puts "Welcome to Tic Tac Toe"
+learn
+1. Run `learn
 2. Read output.
 3. Code solution in `lib/welcome.rb`
 4. Run `learn`
@@ -64,3 +66,11 @@ Or something that looks like:
 What these errors are saying is that the test expected you to print `"Welcome to Tic Tac Toe!"` but you printed something else. Programming is absolutely precise, make sure your tests are printing exactly "Welcome to Tic Tac Toe!".
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ttt-1-welcome-rb' title='Welcome Message for Tic Tac Toe'>Welcome Message for Tic Tac Toe</a> on Learn.co and start learning to code for free.</p>
+learn
+ruby lib/welcome.rb prints "Welcome to Tic Tac toe"
+
+
+
+
+
+
